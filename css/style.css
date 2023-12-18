@@ -1,0 +1,121 @@
+element.style {
+}
+.navbar {
+  background-color: rgb(40, 42, 53);
+  height: 80px;
+  text-align: center;
+  font-size: 25px;
+  word-spacing: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  text-decoration-thickness: initial;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+  color: white;
+  line-height: 80px;
+}
+
+html h1 {
+  font-size: 40px;
+}
+h1 {
+  display: block;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.btn {
+  height: 50px;
+  font-size: 18px;
+  background-color: #04aa6d;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+
+.about {
+  background-color: rgb(217, 238, 225);
+}
+
+.about.btn-2 {
+  background-color: black;
+}
+.btn {
+  height: 50px;
+  font-size: 18px;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+
+#yf-bt-wrapper {
+  all: unset;
+  color: #111;
+}
+#yf-bt-wrapper {
+  font: 13px/18px LatoRegular, sans-serif;
+  margin: 0;
+  background: #fff;
+}
+#yf-bt-wrapper,
+#yf-bt-wrapper .header {
+  text-align: left;
+  width: 366px;
+  padding: 0;
+}
+#yf-bt-wrapper .header {
+  position: relative;
+  height: 50px;
+  margin: auto;
+  border-top: solid 1px #dedede;
+  border-left: solid 1px #dedede;
+  border-right: solid 1px #dedede;
+  background: radial-gradient(closest-side at 50% 50%, #656565 0, #292929 100%)
+    no-repeat padding-box;
+}
+#yf-bt-wrapper,
+#yf-bt-wrapper .header {
+  text-align: left;
+  width: 366px;
+  padding: 0;
+}
+#yf-bt-wrapper .sts-logo {
+  max-height: 38px;
+  margin: 8px 10px 0 8px;
+  width: auto;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+#yf-bt-wrapper,
+#yf-bt-wrapper .header {
+  text-align: left;
+  width: 366px;
+  padding: 0;
+}
+#yf-bt-wrapper {
+  all: unset;
+  color: #111;
+}
+yf-bt-wrapper {
+  font: 13px/18px LatoRegular, sans-serif;
+  margin: 0;
+  background: #fff;
+}
+#yf-bt-wrapper .search-input {
+  position: relative;
+  color: #111;
+  width: 248px;
+  height: 36px;
+  border: 1px solid #e6e6e6;
+  background: no-repeat padding-box #fff;
+  padding-left: 10px;
+  padding-right: 40px;
+  font-weight: 700;
+  font-size: 14px;
+  z-index: 10;
+}
